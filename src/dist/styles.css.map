@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["styles.scss"],"sourcesContent":["\n\n// some basic resets \n\nbody { \n  padding: 0; \n  margin: 0; \n  font-family: Roboto, sans-serif; \n  \n}\n"],"file":"styles.css"}
